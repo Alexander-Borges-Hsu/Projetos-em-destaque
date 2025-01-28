@@ -1,0 +1,10 @@
+{
+    "name": "alexander/ajax-php",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
